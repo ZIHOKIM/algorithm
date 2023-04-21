@@ -29,7 +29,6 @@ public class QuickSort {
                 j--;
             }
         }
-
         //for문 사용시
         // swap(arr, mid, end); // 중간값을 마지막 요소와 교환
         // int i = start;
@@ -51,7 +50,7 @@ public class QuickSort {
     }
 
     public static void main(String[] args) {
-        int[] arr = {5, 1, 9, 3, 7, 6, 8, 2, 4};
+        int[] arr = {5, 54, 9, 3, 11, 6, 8, 92, 4};
         quickSort(arr, 0, arr.length - 1);
         System.out.println(Arrays.toString(arr));
     }
