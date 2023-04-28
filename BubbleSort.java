@@ -16,6 +16,4 @@ class BubbleSort{
 
         System.out.println("답:"+Arrays.toString(arr));
     }
-    
-
 }
