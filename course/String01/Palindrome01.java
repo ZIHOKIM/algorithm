@@ -1,3 +1,5 @@
+package course.String01;
+
 public class Palindrome01 {
     public String solution(String str){
         String answer = "YES";

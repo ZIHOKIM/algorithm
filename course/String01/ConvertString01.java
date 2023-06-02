@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package course.String01;
 
 public class ConvertString01 {
     //대소문자변환

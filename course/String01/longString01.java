@@ -1,3 +1,5 @@
+package course.String01;
+
 public class longString01 {
     //문장속 제일 긴 단어 찾기
     public String solution(String str){

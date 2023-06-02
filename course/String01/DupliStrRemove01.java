@@ -1,3 +1,5 @@
+package course.String01;
+
 public class DupliStrRemove01 {
     public String solution(String str){
         String answer = "";

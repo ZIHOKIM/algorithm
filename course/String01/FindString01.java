@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package course.String01;
 
 public class FindString01 {
     //문자열에서 같은문자찾기
