@@ -11,7 +11,7 @@ public class ConvertString01 {
             //if (Character.isLowerCase(ch)) answer += Character.toUpperCase(ch);
             //else answer += Character.toLowerCase(ch);
 
-            //ASKI NUMBER 사용
+            //ASKII CODE 사용
             //대65~90 소 97~122 대문자 -소문자 =32
             if (ch >= 97 && ch < -122) answer += (char) (ch - 32);
             else answer += (char) (ch + 32);
