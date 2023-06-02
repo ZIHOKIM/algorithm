@@ -1,4 +1,4 @@
-public class DupliStrRemove {
+public class DupliStrRemove01 {
     public String solution(String str){
         String answer = "";
         //charAt을 이용해 indexOf로 비교
