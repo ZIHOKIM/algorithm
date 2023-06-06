@@ -2,7 +2,7 @@ package course.String01;
 
 import java.util.ArrayList;
 
-public class ReverseString01 {
+public class ReverseString04 {
     public ArrayList<String> solution(int n, String[] str){
         ArrayList<String> answer = new ArrayList<>();
 

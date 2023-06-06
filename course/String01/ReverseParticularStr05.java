@@ -1,6 +1,6 @@
 package course.String01;
 
-public class ReverseParticularStr01 {
+public class ReverseParticularStr05 {
     public String solution(String str){
         String answer = "";
 

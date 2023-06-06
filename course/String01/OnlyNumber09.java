@@ -1,6 +1,6 @@
 package course.String01;
 
-public class OnlyNumber01 {
+public class OnlyNumber09 {
     public int solution(String s){
         int answer =0;
         //ASKII NUMBER 문자형 숫자의 경우 '0'~'9' -> 48~57

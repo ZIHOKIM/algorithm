@@ -1,6 +1,6 @@
 package course.String01;
 
-public class StringDistance01 {
+public class StringDistance10 {
     public  int[] solution(String s, char t) {
         int p = 1000;
         int[] answer = new int[s.length()];

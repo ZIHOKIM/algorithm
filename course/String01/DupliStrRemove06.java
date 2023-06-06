@@ -1,6 +1,6 @@
 package course.String01;
 
-public class DupliStrRemove01 {
+public class DupliStrRemove06 {
     public String solution(String str){
         String answer = "";
         //charAt을 이용해 indexOf로 비교

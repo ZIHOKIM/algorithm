@@ -1,6 +1,6 @@
 package course.String01;
 
-public class Palindrome01 {
+public class Palindrome07 {
     public String solution(String str){
         String answer = "YES";
         str = str.toUpperCase();

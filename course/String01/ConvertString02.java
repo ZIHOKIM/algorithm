@@ -1,6 +1,6 @@
 package course.String01;
 
-public class ConvertString01 {
+public class ConvertString02 {
     //대소문자변환
     public String solution(String str){
         char[] charArr = str.toCharArray();
